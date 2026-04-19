@@ -1,5 +1,5 @@
-# Hi 👋, I'm Sachin Kharwar
-
+# -Hi 👋, I'm Sachin Kharwar
+* -I am learning step by step and improving daily.
 🎓 B.Tech Student  
 💻 Aspiring Software Developer  
 🚀 Goal: Get a Job by 2026  
