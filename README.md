@@ -14,7 +14,7 @@ My goal is to become a skilled developer and get an internship/job by 2026.
 
 ## 🔧 Skills
 - C Programming (Basic)
-- Java (OOPs)
+- Java or Java(OOPs)
 - Git & GitHub (Beginner)
 
 ---
